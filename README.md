@@ -1,5 +1,6 @@
 # NeuralNetwork
- Artificial Intelligence - Fourth Project - Neural Network 
+ Artificial Intelligence - Fourth Project - Neural Network
+ 
 June 29th 2019
 
 	(podem ser usados ficheiros de exemplo também fornecidos: 1.txt e 2.txt)
