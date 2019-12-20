@@ -3,16 +3,6 @@
  
 June 29th 2019
 
-	(podem ser usados ficheiros de exemplo também fornecidos: 1.txt e 2.txt)
-
-> Depois de compilado e executado, o programa é intuitivo e fornece informações assim que é iniciado.
-
-> Assegure-se de que o ficheiro em causa se encontra no mesmo diretório que a restante implementação.
-
-> Quando for pedido input para "NUMBER OF TESTS TO MAKE:", fornecer número de testes que pretende fazer
-
-> Para cada "INPUT:" deve ser fornecido um número em binário
-
 ### Compile:
 
 	javac NeuralNW.java
