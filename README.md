@@ -9,7 +9,7 @@ June 29th 2019
 
 ### Run:
 
-	java NeuralNW <EXAMPLES_FILE>
+	java NeuralNW <EXAMPLES_FILE>*
  
  *(example files like **1.txt** or **2.txt** may be used)*
 
