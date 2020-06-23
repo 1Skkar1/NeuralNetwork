@@ -1,7 +1,7 @@
 # NeuralNetwork
  Artificial Intelligence - Fourth Project - Neural Network
  
-June 29th 2019
+Date: ***June 29th 2019***
 
 ### Compile:
 
